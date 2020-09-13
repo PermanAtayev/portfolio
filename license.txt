@@ -1,5 +1,4 @@
-Bootstrap 4 Portfolio Theme for Developers
-
+Perman Atayev. Software Engineer. Back end Developer.
 Theme name:
 =======================================================================
 Developer
